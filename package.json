@@ -1,0 +1,11 @@
+{
+  "name": "web3-solidity-playground",
+  "version": "1.0.0",
+  "description": "Test web3 activity repository with Solidity contracts",
+  "scripts": {
+    "deploy": "node scripts/deploy.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.0"
+  }
+}
