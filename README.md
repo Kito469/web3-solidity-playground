@@ -1,5 +1,6 @@
-# Web3 Solidity Playground
+## Содержимое
 
-Простой репозиторий для тестовой web3-активности:
-- смарт-контракт `SimpleStorage` на Solidity
-- базовая структура `contracts/`
+- контракт `SimpleStorage` (Solidity)
+- контракт `MyToken` (ERC-20-like)
+- скрипт `scripts/deploy.js`
+- `package.json` с зависимостью `ethers`
